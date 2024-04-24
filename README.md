@@ -11,7 +11,7 @@ multiple 3D surgical rings on a surface mesh derived from the voxelized 3D CBCT 
 patient's chest area. It is important to note that the performance of this method relies heavily
 on the accuracy of the ellipse fitting algorithm under noisy data points.
 
-Acknowledgement:
+**Acknowledgement**:
 
 Code for ellipse fitting is from:
 https://github.com/bdhammel/least-squares-ellipse-fitting
@@ -19,10 +19,9 @@ https://github.com/bdhammel/least-squares-ellipse-fitting
 **Cite this work**
 ```
 @software{tluong_CBCT,
-  author       = {Luong, Cong T. and Dillenseger Jean-Louis},
-  title        = {Automatic registration of 2D endoscopy to 3D CBCT for VATS},
-  month        = mar,
-  year         = 2024
+  author={Luong, Cong T. and Dillenseger Jean-Louis},
+  title={Automatic registration of 2D endoscopy to 3D CBCT for VATS},
+  year={2024}
 }
 ```
 or
