@@ -1,4 +1,3 @@
-"# Curvature-Segmentation" 
 In Video-Assisted Thoracoscopic Surgery (VATS), positioning the virtual pulmonary nodule for
 Augmented Reality (AR) Endoscopy guidance is a non-trivial task. The first step in AR VATS
 is finding the endoscope's position by solving the projection equation of the same objects in
@@ -13,5 +12,22 @@ patient's chest area. It is important to note that the performance of this metho
 on the accuracy of the ellipse fitting algorithm under noisy data points.
 
 Acknowledgement:
+
 Code for ellipse fitting is from:
 https://github.com/bdhammel/least-squares-ellipse-fitting
+
+Cite this work:
+
+@software{tluong_CBCT,
+  author       = {Luong, Cong T. and Dillenseger Jean-Louis},
+  title        = {Automatic registration of 2D endoscopy to 3D CBCT for VATS},
+  month        = mar,
+  year         = 2024
+}
+
+@inproceedings{Noblet,
+  title={Registration of 2D monocular endoscopy to 3D CBCT for video-assisted thoracoscopic surgery},
+  author={Baptiste Noblet and Matthieu Chabanas and Simon Rouz{\'e} and Sandrine Voros},
+  booktitle={Medical Imaging},
+  year={2023}
+}
