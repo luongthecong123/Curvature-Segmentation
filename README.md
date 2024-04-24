@@ -11,3 +11,7 @@ labeled data, experimental results show that our method can automatically detect
 multiple 3D surgical rings on a surface mesh derived from the voxelized 3D CBCT scan of a
 patient's chest area. It is important to note that the performance of this method relies heavily
 on the accuracy of the ellipse fitting algorithm under noisy data points.
+
+Acknowledgement:
+Code for ellipse fitting is from:
+https://github.com/bdhammel/least-squares-ellipse-fitting
