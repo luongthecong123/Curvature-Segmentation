@@ -16,18 +16,21 @@ Acknowledgement:
 Code for ellipse fitting is from:
 https://github.com/bdhammel/least-squares-ellipse-fitting
 
-Cite this work:
-
+**Cite this work**
+```
 @software{tluong_CBCT,
   author       = {Luong, Cong T. and Dillenseger Jean-Louis},
   title        = {Automatic registration of 2D endoscopy to 3D CBCT for VATS},
   month        = mar,
   year         = 2024
 }
-
+```
+or
+```
 @inproceedings{Noblet,
   title={Registration of 2D monocular endoscopy to 3D CBCT for video-assisted thoracoscopic surgery},
   author={Baptiste Noblet and Matthieu Chabanas and Simon Rouz{\'e} and Sandrine Voros},
   booktitle={Medical Imaging},
   year={2023}
 }
+```
