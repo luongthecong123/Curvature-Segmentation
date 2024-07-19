@@ -20,16 +20,7 @@ https://github.com/bdhammel/least-squares-ellipse-fitting
 ```
 @software{tluong_CBCT,
   author={Luong, Cong T. and Dillenseger Jean-Louis},
-  title={Automatic registration of 2D endoscopy to 3D CBCT for VATS},
+  title={Segmentation of Alexis Retractors in the context of augmented reality in Video-Assisted Thoracoscopic Surgery},
   year={2024}
-}
-```
-or
-```
-@inproceedings{Noblet,
-  title={Registration of 2D monocular endoscopy to 3D CBCT for video-assisted thoracoscopic surgery},
-  author={Baptiste Noblet and Matthieu Chabanas and Simon Rouz{\'e} and Sandrine Voros},
-  booktitle={Medical Imaging},
-  year={2023}
 }
 ```
