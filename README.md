@@ -18,9 +18,11 @@ https://github.com/bdhammel/least-squares-ellipse-fitting
 
 **Cite this work**
 ```
-@software{tluong_CBCT,
-  author={Luong, Cong T. and Dillenseger Jean-Louis},
+@conference{tluong_CBCT,
+  author={Luong, The Cong and Rouzé, Simon and Dillenseger, Jean-Louis},
   title={Segmentation of Alexis Retractors in the context of augmented reality in Video-Assisted Thoracoscopic Surgery},
-  year={2024}
+  booktitle={Proceedings of SPIE Medical Imaging 2025},
+  year={2025},
+  note={Oral Presentation}
 }
 ```
