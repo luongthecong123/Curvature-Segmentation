@@ -23,6 +23,8 @@ https://github.com/bdhammel/least-squares-ellipse-fitting
   title={Segmentation of Alexis Retractors in the context of augmented reality in Video-Assisted Thoracoscopic Surgery},
   booktitle={Proceedings of SPIE Medical Imaging 2025},
   year={2025},
+  address={San Diego, CA, USA},
+  month={February 17},
   note={Oral Presentation}
 }
 ```
