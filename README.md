@@ -12,7 +12,7 @@ patient's chest area. It is important to note that the performance of this metho
 on the accuracy of the ellipse fitting algorithm under noisy data points.
 
 <p align="center">
-  <img src="img/diagram_t.png" alt="Flow diagram" width="400"/>
+  <img src="img/diagram.png" alt="Flow diagram" width="400"/>
   <img src="img/no_plane_cut_skew_new_new.JPG" alt="Result" width="400"/>
 </p>
 
